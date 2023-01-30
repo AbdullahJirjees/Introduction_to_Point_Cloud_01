@@ -2,6 +2,6 @@
 
 In this Lession we will learn the General info about Point Cloud Processing 
 
-#Requirements 
+# Requirements 
 * Open3D
 * Numpy
